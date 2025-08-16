@@ -21,7 +21,7 @@ Here're some of the project's best features:
 <p>1. Download</p>
 
 ```
-git clone https://github.com/yourname/autotyper.git
+git clone https://github.com/vatosv2/autotyper.git
 ```
 
 <p>2. Install dependencies</p>
