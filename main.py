@@ -18,7 +18,7 @@ class AutoTyper:
     """
     def __init__(
         self,
-        wordlist: str = "assets/gid.txt",
+        wordlist: str = "assets/wordlist.txt",
         filler: str = "assets/filler.txt",
         short: str = "assets/shortwords.txt",
     ) -> None:
@@ -321,3 +321,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
